@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/challenges/day04.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/demo01_print.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/demo03_struktury.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/demo04_texts.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/demo06_webAPI.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/demo07_custom_functions.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/demo08_files.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/demo09_db.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/demo10_oop.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/demo11_gui.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/demo12_spec_func.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/files/danebabcia.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/files/data.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/files/link.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/files/names.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/files/raven.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/classes/car.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/classes/person.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/classes/studia.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/classes/worker.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/windows/main_window.py" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1250" />
+  </component>
+</project>

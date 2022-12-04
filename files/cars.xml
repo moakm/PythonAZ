@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<auta>
+    <auto rej="077E" vin="VW7433">
+        <marka>VW</marka>
+        <model>golf</model>
+        <hp>90</hp>
+        <cena waluta="PLN">3000</cena>
+    </auto>
+    <auto rej="sr8064j" vin="RG123986">
+        <marka>Skoda</marka>
+        <model>Octavia</model>
+        <hp>120</hp>
+        <cena waluta="EUR">10000</cena>
+    </auto>
+    <auto rej="sr8065j" vin="DS123876">
+        <marka>VW</marka>
+        <model>POLO</model>
+        <hp>200</hp>
+        <cena waluta="PLN">10000</cena>
+    </auto>
+    <auto rej="SWD801a" vin="PO12342131">
+        <marka>Volvo</marka>
+        <model>S80</model>
+        <hp>250</hp>
+        <cena waluta="PLN">60000</cena>
+    </auto>
+</auta>

@@ -1,0 +1,5 @@
+Tomasz;Andrzej;01271834577
+Ewa;Kowalska;75120312345
+Andrzej;Janusz;85090123456
+Jan;Kowalski;01271834577
+Mateusz;Idzik;06251479291
